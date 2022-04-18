@@ -4,4 +4,7 @@ class PagesController < ApplicationController
 
   def try
   end
+
+  def about
+  end
 end
